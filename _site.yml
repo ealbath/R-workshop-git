@@ -2,13 +2,13 @@ name: Metadata Viz
 output_dir: "docs"
 exclude: ['*.rda', "*.csv", '*.pdf', '*.dta', '*.csv', '*.csl', '*.bibtex', '*.docx', "data"]
 navbar:
-  title: "Template-Project"
+  title: "SOEP project"
   left:
   - text: "Overview"
     href: index.html
-  - text: "Template Analysis-Report"
+  - text: "Template Analysis report"
     href: template-analysis.html
-  - text: "Further-information"
+  - text: "Further information"
     href: additional.html
 output:
   html_document:

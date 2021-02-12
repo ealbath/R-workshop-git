@@ -2,7 +2,7 @@
 pagetitle: My-Project Title
 ---
 
-# My-Project Name
+# My first SOEP project
 
 ## Outline 
 

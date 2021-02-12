@@ -8,7 +8,7 @@ navbar:
     href: index.html
   - text: "Template-Analysis-Report"
     href: template-analysis.html
-  - text: "Further information"
+  - text: "Further-information"
     href: additional.html
 output:
   html_document:

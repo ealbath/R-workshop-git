@@ -6,7 +6,7 @@ navbar:
   left:
   - text: "Overview"
     href: index.html
-  - text: "Template-Analysis-Report"
+  - text: "Template Analysis-Report"
     href: template-analysis.html
   - text: "Further-information"
     href: additional.html

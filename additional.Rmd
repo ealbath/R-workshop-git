@@ -1,0 +1,12 @@
+---
+title: "Additional Info"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Here you can find some additional info.**
+
+Thanks for stopping by!

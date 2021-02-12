@@ -8,6 +8,8 @@ navbar:
     href: index.html
   - text: "Template-Analysis-Report"
     href: template-analysis.html
+  - test: "Further information"
+    href: additional.html
 output:
   html_document:
     theme: default
